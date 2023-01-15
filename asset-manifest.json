@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ezitounioussama/useState-TailwindCss/static/css/main.00800de4.css",
-    "main.js": "/ezitounioussama/useState-TailwindCss/static/js/main.165b7d6d.js",
-    "static/js/787.b3a34ce6.chunk.js": "/ezitounioussama/useState-TailwindCss/static/js/787.b3a34ce6.chunk.js",
-    "index.html": "/ezitounioussama/useState-TailwindCss/index.html",
-    "main.00800de4.css.map": "/ezitounioussama/useState-TailwindCss/static/css/main.00800de4.css.map",
-    "main.165b7d6d.js.map": "/ezitounioussama/useState-TailwindCss/static/js/main.165b7d6d.js.map",
-    "787.b3a34ce6.chunk.js.map": "/ezitounioussama/useState-TailwindCss/static/js/787.b3a34ce6.chunk.js.map"
+    "main.css": "/useState-TailwindCss/static/css/main.00800de4.css",
+    "main.js": "/useState-TailwindCss/static/js/main.3494cb41.js",
+    "static/js/787.b3a34ce6.chunk.js": "/useState-TailwindCss/static/js/787.b3a34ce6.chunk.js",
+    "index.html": "/useState-TailwindCss/index.html",
+    "main.00800de4.css.map": "/useState-TailwindCss/static/css/main.00800de4.css.map",
+    "main.3494cb41.js.map": "/useState-TailwindCss/static/js/main.3494cb41.js.map",
+    "787.b3a34ce6.chunk.js.map": "/useState-TailwindCss/static/js/787.b3a34ce6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00800de4.css",
-    "static/js/main.165b7d6d.js"
+    "static/js/main.3494cb41.js"
   ]
 }
